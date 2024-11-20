@@ -1,0 +1,24 @@
+# ninja log v5
+3	63	7538258202939655	imguizmo_cpp-populate-prefix/src/imguizmo_cpp-populate-stamp/imguizmo_cpp-populate-mkdir	9c9111dbaea2ee44
+3	63	7538258202939655	C:/Users/34622/source/repos/Graphics/out/build/x64-Debug/_deps/imguizmo_cpp-subbuild/imguizmo_cpp-populate-prefix/src/imguizmo_cpp-populate-stamp/imguizmo_cpp-populate-mkdir	9c9111dbaea2ee44
+64	423	7538258206516898	imguizmo_cpp-populate-prefix/src/imguizmo_cpp-populate-stamp/imguizmo_cpp-populate-download	86ebee003eabcc58
+64	423	7538258206516898	C:/Users/34622/source/repos/Graphics/out/build/x64-Debug/_deps/imguizmo_cpp-subbuild/imguizmo_cpp-populate-prefix/src/imguizmo_cpp-populate-stamp/imguizmo_cpp-populate-download	86ebee003eabcc58
+423	491	7538258207177049	imguizmo_cpp-populate-prefix/src/imguizmo_cpp-populate-stamp/imguizmo_cpp-populate-update	f261eaacc433b5dd
+423	491	7538258207177049	C:/Users/34622/source/repos/Graphics/out/build/x64-Debug/_deps/imguizmo_cpp-subbuild/imguizmo_cpp-populate-prefix/src/imguizmo_cpp-populate-stamp/imguizmo_cpp-populate-update	f261eaacc433b5dd
+491	549	7538258207774065	imguizmo_cpp-populate-prefix/src/imguizmo_cpp-populate-stamp/imguizmo_cpp-populate-patch	9ec1520fb79036a0
+491	549	7538258207774065	C:/Users/34622/source/repos/Graphics/out/build/x64-Debug/_deps/imguizmo_cpp-subbuild/imguizmo_cpp-populate-prefix/src/imguizmo_cpp-populate-stamp/imguizmo_cpp-populate-patch	9ec1520fb79036a0
+549	625	7538258208561054	imguizmo_cpp-populate-prefix/src/imguizmo_cpp-populate-stamp/imguizmo_cpp-populate-copyfile	9fe176d462de33ea
+549	625	7538258208561054	C:/Users/34622/source/repos/Graphics/out/build/x64-Debug/_deps/imguizmo_cpp-src/ImGuizmo.cpp	9fe176d462de33ea
+549	625	7538258208561054	C:/Users/34622/source/repos/Graphics/out/build/x64-Debug/_deps/imguizmo_cpp-subbuild/imguizmo_cpp-populate-prefix/src/imguizmo_cpp-populate-stamp/imguizmo_cpp-populate-copyfile	9fe176d462de33ea
+625	686	7538258209065494	imguizmo_cpp-populate-prefix/src/imguizmo_cpp-populate-stamp/imguizmo_cpp-populate-configure	48e84b1684814d51
+625	686	7538258209065494	C:/Users/34622/source/repos/Graphics/out/build/x64-Debug/_deps/imguizmo_cpp-subbuild/imguizmo_cpp-populate-prefix/src/imguizmo_cpp-populate-stamp/imguizmo_cpp-populate-configure	48e84b1684814d51
+686	749	7538258209724151	imguizmo_cpp-populate-prefix/src/imguizmo_cpp-populate-stamp/imguizmo_cpp-populate-build	d2e00759d7a1fb89
+686	749	7538258209724151	C:/Users/34622/source/repos/Graphics/out/build/x64-Debug/_deps/imguizmo_cpp-subbuild/imguizmo_cpp-populate-prefix/src/imguizmo_cpp-populate-stamp/imguizmo_cpp-populate-build	d2e00759d7a1fb89
+750	808	7538258210305757	imguizmo_cpp-populate-prefix/src/imguizmo_cpp-populate-stamp/imguizmo_cpp-populate-install	b9b41e6ecd96c0dd
+750	808	7538258210305757	C:/Users/34622/source/repos/Graphics/out/build/x64-Debug/_deps/imguizmo_cpp-subbuild/imguizmo_cpp-populate-prefix/src/imguizmo_cpp-populate-stamp/imguizmo_cpp-populate-install	b9b41e6ecd96c0dd
+808	885	7538258211139455	imguizmo_cpp-populate-prefix/src/imguizmo_cpp-populate-stamp/imguizmo_cpp-populate-test	ed9821f44221cafa
+808	885	7538258211139455	C:/Users/34622/source/repos/Graphics/out/build/x64-Debug/_deps/imguizmo_cpp-subbuild/imguizmo_cpp-populate-prefix/src/imguizmo_cpp-populate-stamp/imguizmo_cpp-populate-test	ed9821f44221cafa
+885	986	7538258212082810	CMakeFiles/imguizmo_cpp-populate-complete	a87177b6e9643032
+885	986	7538258212082810	imguizmo_cpp-populate-prefix/src/imguizmo_cpp-populate-stamp/imguizmo_cpp-populate-done	a87177b6e9643032
+885	986	7538258212082810	C:/Users/34622/source/repos/Graphics/out/build/x64-Debug/_deps/imguizmo_cpp-subbuild/CMakeFiles/imguizmo_cpp-populate-complete	a87177b6e9643032
+885	986	7538258212082810	C:/Users/34622/source/repos/Graphics/out/build/x64-Debug/_deps/imguizmo_cpp-subbuild/imguizmo_cpp-populate-prefix/src/imguizmo_cpp-populate-stamp/imguizmo_cpp-populate-done	a87177b6e9643032
